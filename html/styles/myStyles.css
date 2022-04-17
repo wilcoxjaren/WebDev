@@ -1,0 +1,26 @@
+/* /* My custom styles */
+/* Jaren Wilcox 04/16/2022 */
+
+.navBackground {
+    background-color: rgb(184, 144, 95);
+}
+
+#navText {
+    color: aqua;
+}
+
+.text {
+    color:rgb(205, 153, 91)
+}
+
+body {
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("/html/assets/images/timpanogos.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+img {
+    height: 200px;
+    width: 150px;
+}
